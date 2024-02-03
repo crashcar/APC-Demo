@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<trafficControl id="scenario1-apc">
+    <speed id="veh" begin="0.1" value="13" />
+    <speed id="veh.4" begin="93" value="16.66" />
+</trafficControl>
+
+
+<trafficControl id="scenario1-manual">
+    <speed id="veh" begin="0.1" value="13" /> 
+    <speed id="veh" begin="60" value="16.6" />
+    <speed id="veh.4" begin="93" value="16.6" />
+</trafficControl>
+
+
+
+
+<trafficControl id="scenario2-apc">
+    <speed id="veh" begin="0.1" value="13" />
+    <speed id="veh" begin="93" value="16.66" />
+</trafficControl>
+
+
+<trafficControl id="scenario2-manual">
+    <speed id="veh" begin="0.1" value="13" />
+    <speed id="veh" begin="93" value="16.66" />
+    <speed id="veh.3" begin="95" value="16.66" />
+    <speed id="veh.6" begin="97" value="16.66" />
+</trafficControl>
+
