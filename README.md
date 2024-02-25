@@ -25,8 +25,10 @@ The simulation configuration file is located in `YourPathToAPC/APC-Adaptive-Plat
 ## Simulation Results
 APC in Scenario 1: the 8-vehicle platoon performing splitting maneuver at the intersection
 
-https://github.com/crashcar/APC-Adaptive-Platoon-Control-Strategy-at-a-Signalized-Intersection/assets/56828380/ec875d77-ebcb-48b8-9b1a-453c64b0b711
+https://github.com/crashcar/APC-Adaptive-Platoon-Control-Strategy-at-a-Signalized-Intersection/assets/56828380/7841c5b3-b508-4075-9bec-43e6f5d2f92c
 
 APC in Scenario 2: three platoons (3/3/2-vehicle) performing merging maneuver at the intersection
 
-https://github.com/crashcar/APC-Adaptive-Platoon-Control-Strategy-at-a-Signalized-Intersection/assets/56828380/c743e8b9-92a0-49fc-bd7a-8ae030a08f50
+https://github.com/crashcar/APC-Adaptive-Platoon-Control-Strategy-at-a-Signalized-Intersection/assets/56828380/e31677a3-51e8-4060-bee8-4b4767add4c4
+
+
