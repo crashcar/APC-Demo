@@ -9,7 +9,7 @@ This is the code repository for the paper "APC: Adaptive Platoon Control Strateg
 The platform VENTOS is an integrated simulator based on two well-known simulators: SUMO and OMNeT++. Therefore, first, you should download and install SUMO and OMNeT++, and then import the project into the OMNeT++ IDE. 
 
 ```sh
-git clone https://github.com/crashcar/APC-Adaptive-Platoon-Control-Strategy-at-a-Signalized-Intersection.git
+git clone https://github.com/crashcar/APC-Demo.git
 ```
 
 Run the 'runme' script to complete the installation process.
