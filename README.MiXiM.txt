@@ -7,7 +7,7 @@ Contents
 ========
  - Purpose and History
  - Copyright
- - Authors and Maintainers
+ 
  - Installation
  - Documentation
  - Release notes
@@ -118,9 +118,9 @@ Copyright (C) 2007
     just as you do if you cite a scientific work.
 
 
-Authors and Maintainers
+ 
 =======================
-The main authors of MiXiM are (in alphabetic order)
+ 
 - Andreas Koepke, TUB (koepke@tkn.tu-berlin.de)
 - Hermann S. Lichte, UPB (hermann.lichte@uni-paderborn.de)
 - Tom Parker, TUD (t.e.v.parker@tudelft.nl)

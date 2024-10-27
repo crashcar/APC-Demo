@@ -1,7 +1,7 @@
 /****************************************************************************/
 /// @file    TrafficActuated.h
-/// @author  Philip Vo <foxvo@ucdavis.edu>
-/// @author  Mani Amoozadeh <maniam@ucdavis.edu>
+ 
+ 
 /// @date    August 2013
 ///
 /****************************************************************************/

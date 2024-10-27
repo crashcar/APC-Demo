@@ -16,8 +16,8 @@
  * Use ConnectionManager instead.
  *
  * @ingroup connectionManager
- * @author Steffen Sroka, Daniel Willkomm, Karl Wessel
- * @author Christoph Sommer ("unregisterNic()"-method)
+ 
+ 
  * @sa ChannelAccess
  */
 class MIXIM_API BaseConnectionManager : public omnetpp::cSimpleModule

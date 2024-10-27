@@ -30,7 +30,7 @@
  * @ingroup macLayer
  * @ingroup netwLayer
  *
- * @author Karl Wessel
+ 
  */
 class MIXIM_API MacToNetwControlInfo : public omnetpp::cObject
 {

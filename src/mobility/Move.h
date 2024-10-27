@@ -1,7 +1,7 @@
 /* -*- mode:c++ -*- ********************************************************
  * file:        Move.h
  *
- * author:      Andreas Koepke, Michael Swigulski
+ 
  *
  * copyright:   (C) 2005, 2010 Telecommunication Networks Group (TKN) at
  *              Technische Universitaet Berlin, Germany.
@@ -31,7 +31,7 @@
  * @ingroup baseUtils
  * @ingroup utils
  *
- * @author Andreas Koepke, Michael Swigulski
+ 
  **/
 class MIXIM_API Move : public omnetpp::cObject
 {

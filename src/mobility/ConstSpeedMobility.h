@@ -1,7 +1,7 @@
 /* -*- mode:c++ -*- ********************************************************
  * file:        ConstSpeedMobility.h
  *
- * author:      Steffen Sroka
+ 
  *
  * copyright:   (C) 2004 Telecommunication Networks Group (TKN) at
  *              Technische Universitaet Berlin, Germany.
@@ -34,7 +34,7 @@ namespace VENTOS {
  *  - x, y, z : Starting position of the host, -1 = random
  *
  * @ingroup mobility
- * @author Steffen Sroka, Marc Loebbers, Daniel Willkomm
+ 
  * @sa ConnectionManager
  */
 class ConstSpeedMobility : public BaseMobility

@@ -1,7 +1,7 @@
 /* -*- mode:c++ -*- *******************************************************
  * file:        BaseApplLayer.cc
  *
- * author:      Daniel Willkomm
+ 
  *
  * copyright:   (C) 2004 Telecommunication Networks Group (TKN) at
  *              Technische Universitaet Berlin, Germany.

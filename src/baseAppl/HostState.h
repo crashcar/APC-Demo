@@ -1,7 +1,7 @@
 /* -*- mode:c++ -*- ********************************************************
  * Energy Framework for Omnet++, version 0.9
  *
- * Author:  Laura Marie Feeney
+ 
  *
  * Copyright 2009 Swedish Institute of Computer Science.
  *

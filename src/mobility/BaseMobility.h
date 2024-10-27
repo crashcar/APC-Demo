@@ -1,7 +1,7 @@
 /* -*- mode:c++ -*- ********************************************************
  * file:        BaseMobility.h
  *
- * author:      Daniel Willkomm, Andras Varga
+ 
  *
  * copyright:   (C) 2004 Telecommunication Networks Group (TKN) at
  *              Technische Universitaet Berlin, Germany.
@@ -55,7 +55,7 @@
  *
  * @ingroup mobility
  * @ingroup baseModules
- * @author Daniel Willkomm, Andras Varga
+ 
  */
 
 class MIXIM_API BaseMobility : public BaseModule

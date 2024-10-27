@@ -89,7 +89,7 @@ public:
    @endverbatim
  *
  * @ingroup analogueModels
- * @author Hermann S. Lichte, Karl Wessel (port for MiXiM)
+ 
  */
 class MIXIM_API JakesFading: public AnalogueModel {
 protected:

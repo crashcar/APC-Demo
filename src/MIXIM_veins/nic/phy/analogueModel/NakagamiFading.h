@@ -36,7 +36,7 @@
  * An in-depth description of the model is available at:
  * Todo: add paper
  *
- * @author David Eckhoff, Christoph Sommer
+ 
  *
  * @ingroup analogueModels
  */

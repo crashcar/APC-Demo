@@ -1,7 +1,7 @@
 /***************************************************************************
  * file:        BaseLayer.cc
  *
- * author:      Andreas Koepke
+ 
  *
  * copyright:   (C) 2006 Telecommunication Networks Group (TKN) at
  *              Technische Universitaet Berlin, Germany.
@@ -20,7 +20,7 @@
  ***************************************************************************
  * changelog:   $Revision: 250 $
  *              last modified:   $Date: 2006-04-04 18:53:02 +0200 (Tue, 04 Apr 2006) $
- *              by:              $Author: koepke $
+ 
  **************************************************************************/
 
 #include <assert.h>

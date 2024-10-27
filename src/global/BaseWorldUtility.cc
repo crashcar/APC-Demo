@@ -1,7 +1,7 @@
 /* -*- mode:c++ -*- ********************************************************
  * file:        BaseWorldUtility.h
  *
- * author:      Tom Parker
+ 
  *
  * copyright:   (C) 2006 Parallel and Distributed Systems Group (PDS) at
  *              Technische Universiteit Delft, The Netherlands.

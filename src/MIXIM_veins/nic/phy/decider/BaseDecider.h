@@ -2,7 +2,7 @@
  * BaseDecider.h
  *
  *  Created on: 24.02.2009
- *      Author: karl
+ 
  */
 
 #ifndef BASEDECIDER_H_

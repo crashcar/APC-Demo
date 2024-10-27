@@ -2,7 +2,7 @@
  * SignalInterfaces.h
  *
  *  Created on: 26.08.2008
- *      Author: karl wessel
+ 
  */
 
 #ifndef SIGNALINTERFACES_H_
@@ -23,7 +23,7 @@ class FilledUpMapping;
  *
  * Note: Does take ownership of the passed iterator pointer!
  *
- * @author Karl Wessel
+ 
  * @ingroup mappingDetails
  */
 template<class Base>
@@ -77,7 +77,7 @@ public:
  * ConstMappingIterator instances.
  *
  * @sa BaseFilteredIterator *
- * @author Karl Wessel
+ 
  * @ingroup mappingDetails
  * */
 typedef BaseFilteredIterator<ConstMappingIterator> FilteredConstMappingIterator;
@@ -87,7 +87,7 @@ typedef BaseFilteredIterator<ConstMappingIterator> FilteredConstMappingIterator;
  * MappingIterator instances.
  *
  * @sa BaseFilteredIterator
- * @author Karl Wessel
+ 
  * @ingroup mappingDetails
  */
 class MIXIM_API FilteredMappingIterator : public BaseFilteredIterator<MappingIterator>
@@ -106,7 +106,7 @@ public:
  * @brief Provides an implementation of the MappingIterator-
  * Interface which is able to iterate over TimeMappings.
  *
- * @author Karl Wessel
+ 
  * @ingroup mapping
  */
 template<template <typename> class Interpolator>
@@ -313,7 +313,7 @@ public:
  * simtime_t to double between which values can be interpolated to represent
  * a Mapping with only time as domain.
  *
- * @author Karl Wessel
+ 
  * @ingroup mapping
  */
 template<template <typename> class Interpolator>
@@ -408,7 +408,7 @@ public:
  * which linear interpolates between two other Mapping iterators. Or in
  * other words, it provides an Iterator for an linear interpolated Mapping.
  *
- * @author Karl Wessel
+ 
  * @ingroup mappingDetails
  */
 class MIXIM_API LinearIntplMappingIterator:public MappingIterator
@@ -532,7 +532,7 @@ public:
  * @brief Helper class which represents a linear interpolation between
  * two other mappings.
  *
- * @author Karl Wessel
+ 
  * @ingroup mappingDetails
  */
 class MIXIM_API LinearIntplMapping:public Mapping
@@ -628,7 +628,7 @@ public:
  * a Pointer to an temporary InterpolatedMapping between two Sub-mappings of the
  * MultiDimMapping.
  *
- * @author Karl Wessel
+ 
  * @ingroup mappingDetails
  */
 template<>
@@ -754,7 +754,7 @@ public:
  * @brief Specialization of the Linear-template which provides LinearInterpolation
  * for pointer two Mappings. Used by MultiDimMapping.
  *
- * @author Karl Wessel
+ 
  * @ingroup mappingDetails
  */
 template<>
@@ -850,7 +850,7 @@ protected:
  *
  * Returns the same value for every point in any dimension.
  *
- * @author Karl Wessel
+ 
  * @ingroup mapping
  */
 class MIXIM_API ConstantSimpleConstMapping : public SimpleConstMapping
@@ -906,7 +906,7 @@ public:
  * Assumes that "setValue()" of the MappingIterator interface will
  * never be called.
  *
- * @author Karl Wessel
+ 
  * @ingroup mappingDetails
  */
 class MIXIM_API ConstMappingIteratorWrapper : public MappingIterator
@@ -962,7 +962,7 @@ public:
  * Assumes that "setValue()" of the Mapping interface will
  * never be called.
  *
- * @author Karl Wessel
+ 
  * @ingroup mappingDetails
  */
 class MIXIM_API ConstMappingWrapper : public Mapping
@@ -1032,7 +1032,7 @@ class MultiDimMapping;
  * end before the position inside the dimension of this iterator is increased.
  * This assures the iteration order demanded by the MappingIterator-interface.
  *
- * @author Karl Wessel
+ 
  * @ingroup mapping
  */
 template<template <typename> class Interpolator>
@@ -1399,7 +1399,7 @@ public:
  * be TimedMappings if their dimension is the time. The TimedMappings therefore
  * represent the leafs of the tree-like structure.
  *
- * @author Karl Wessel
+ 
  * @ingroup mapping
  */
 template<template <typename> class Interpolator>
@@ -1719,7 +1719,7 @@ public:
  * "setValue()"-method may never be called.
  *
  * @sa FilledUpMapping
- * @author Karl Wessel
+ 
  * @ingroup mappingDetails
  */
 class MIXIM_API FilledUpMappingIterator : public MultiDimMappingIterator<Linear>
@@ -1746,7 +1746,7 @@ public:
  * the first mappings domain (meaning the first mappings domain has the same
  * dimensions as the seconds domain and at least one further dimension).
  *
- * @author Karl Wessel
+ 
  * @ingroup mappingDetails
  */
 class MIXIM_API FilledUpMapping : public MultiDimMapping<Linear>
@@ -1857,7 +1857,7 @@ public:
 /**
  * @brief Provides several utility methods for Mappings.
  *
- * @author Karl Wessel
+ 
  * @ingroup mapping
  */
 class MIXIM_API MappingUtils
@@ -2100,7 +2100,7 @@ public:
 /**
  * @brief Deletes its ConstMapping when this iterator is deleted.
  *
- * @author Karl Wessel
+ 
  * @ingroup mappingDetails
  */
 class MIXIM_API ConcatConstMappingIterator : public FilteredConstMappingIterator
@@ -2137,7 +2137,7 @@ public:
  * @brief Defines it values by concatenating one or more
  * Mappings to a reference Mapping.
  *
- * @author Karl Wessel
+ 
  * @ingroup mappingDetails
  */
 template<class Operator>
@@ -2280,7 +2280,7 @@ public:
  *
  * @sa BaseDelayedMapping
  * @ingroup mappingDetails
- * @author Karl Wessel
+ 
  */
 template<class Base, class Iterator>
 class BaseDelayedIterator: public Base
@@ -2364,7 +2364,7 @@ public:
  *
  * @sa ConstDelayedMapping
  * @ingroup mappingDetails
- * @author Karl Wess
+ 
  */
 typedef BaseDelayedIterator<FilteredConstMappingIterator, ConstMappingIterator> ConstDelayedMappingIterator;
 
@@ -2373,7 +2373,7 @@ typedef BaseDelayedIterator<FilteredConstMappingIterator, ConstMappingIterator> 
  *
  * @sa DelayedMapping
  * @ingroup mappingDetails
- * @author Karl Wessel
+ 
  */
 typedef BaseDelayedIterator<FilteredMappingIterator, MappingIterator> DelayedMappingIterator;
 
@@ -2382,7 +2382,7 @@ typedef BaseDelayedIterator<FilteredMappingIterator, MappingIterator> DelayedMap
  *
  * @sa DelayedMapping, ConstDelayedMapping
  * @ingroup mappingDetails
- * @author Karl Wessel
+ 
  */
 template<class Base>
 class BaseDelayedMapping: public Base
@@ -2452,7 +2452,7 @@ public:
  * how to use this mapping.
  *
  * @ingroup mappingDetails
- * @author Karl Wessel
+ 
  */
 class MIXIM_API ConstDelayedMapping: public BaseDelayedMapping<ConstMapping>
 {
@@ -2476,7 +2476,7 @@ public:
  * how to use this mapping.
  *
  * @ingroup mappingDetails
- * @author Karl Wessel
+ 
  */
 class MIXIM_API DelayedMapping: public BaseDelayedMapping<Mapping>
 {

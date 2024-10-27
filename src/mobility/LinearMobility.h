@@ -1,7 +1,7 @@
 /* -*- mode:c++ -*- ********************************************************
  * file:        LinearMobility.h
  *
- * author:      Emin Ilker Cetinbas (niw3_at_yahoo_d0t_com)
+ 
  *
  * Copyright    (C) 2005 Emin Ilker Cetinbas
  *
@@ -29,7 +29,7 @@
  *
  * NOTE: Does not yet support 3-dimensional movement.
  * @ingroup mobility
- * @author Emin Ilker Cetinbas
+ 
  */
 class MIXIM_API LinearMobility : public BaseMobility
 {

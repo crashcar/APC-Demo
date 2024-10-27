@@ -41,8 +41,8 @@ moduleinterface IWirelessMac
 //
 // Manages timeslots for CCH and SCH listening and sending.
 //
-// @author Christopher Saloman
-// @author David Eckhoff : rewrote complete model
+ 
+ 
 //
 // @see BaseWaveApplLayer
 // @see Nic80211p

@@ -2,7 +2,7 @@
  * Mapping.h
  *
  *  Created on: 26.08.2008
- *      Author: Karl Wessel
+ 
  */
 
 #ifndef MAPPING_H_

@@ -1,13 +1,13 @@
 /****************************************************************************/
 /// @file    Manager.cc
 /// modified to implement SERP, modifed calculateCO2emission() using VT-micro
-/// @author  yijun pu <yijunpu@whu.edu.cn>
+ 
 /// @date    December 2023
 ///
 /****************************************************************************/
 /// @file    Manager.cc
-/// @author  Mani Amoozadeh <maniam@ucdavis.edu>
-/// @author  second author name
+ 
+ 
 /// @date    August 2013
 ///
 /****************************************************************************/

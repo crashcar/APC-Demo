@@ -1,7 +1,7 @@
 /* -*- mode:c++ -*- ********************************************************
  * file:        BaseModule.h
  *
- * author:      Steffen Sroka
+ 
  *              Andreas Koepke
  *
  * copyright:   (C) 2004 Telecommunication Networks Group (TKN) at
@@ -44,7 +44,7 @@
  * an error if the host state changes to something else than ACTIVE.
  * Therefore that a sub-classing module can be used in a simulation
  * where the host state can change it has to override that method
- * which forces the author to make sure the module reacts well to
+ 
  * host state changes.
  * Alternatively one can also set a "notAffectedByHostState" parameter
  * of the module to true.
@@ -59,8 +59,8 @@
  * There will never be a stand-alone BaseModule module.
  *
  *
- * @author Steffen Sroka
- * @author Andreas Koepke
+ 
+ 
  */
 
 class MIXIM_API BaseModule: public omnetpp::cSimpleModule, public omnetpp::cListener

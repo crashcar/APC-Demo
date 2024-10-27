@@ -30,7 +30,7 @@ namespace Veins {
  * @brief
  * Interface between WaveApplication Layer and Mac1609_4
  *
- * @author David Eckhoff
+ 
  *
  * @ingroup macLayer
  */

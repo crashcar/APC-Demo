@@ -13,7 +13,7 @@
  *
  * @ingroup analogueModels
  *
- * @author Jérôme Rousselot <jerome.rousselot@csem.ch>
+ 
  */
 class MIXIM_API PERModel : public AnalogueModel {
 protected:

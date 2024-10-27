@@ -22,7 +22,7 @@
  *
  * Returned by InterpolateableMaps "getValue()"
  *
- * @author Karl Wessel
+ 
  * @ingroup mappingDetails
  */
 template<class V>
@@ -229,7 +229,7 @@ protected:
  * If there is no smaller entry it returns the next bigger or the
  * "out of range"-value, if set.
  *
- * @author Karl Wessel
+ 
  * @ingroup mappingDetails
  */
 template<class _ContainerType>
@@ -305,7 +305,7 @@ public:
  * provides interpolation of values for an arbitrary key by returning the
  * value of the nearest entry.
  *
- * @author Karl Wessel
+ 
  * @ingroup mappingDetails
  */
 template<class _ContainerType>
@@ -403,7 +403,7 @@ T cast_it(omnetpp::simtime_t rValToCast) {
  * @brief Given two iterators defining a range of key-value-pairs this class
  * provides linear interpolation of the value at an arbitrary key-position.
  *
- * @author Karl Wessel
+ 
  * @ingroup mappingDetails
  */
 template<class _ContainerType>
@@ -565,7 +565,7 @@ protected:
  * 				  See the NextSmaller template for an example of an Interpolator.
  * 				  Default is NextSmaller<Key, V, Pair, Iterator>.
  *
- * @author Karl Wessel
+ 
  * @ingroup mappingDetails
  */
 template< typename _Interpolator, typename _IteratorType = typename _Interpolator::const_iterator >
@@ -748,7 +748,7 @@ public:
  *
  * See ConstInterpolateableIterator for more details.
  *
- * @author Karl Wessel
+ 
  * @ingroup mappingDetails
  */
 template< typename TInterpolator >
@@ -809,7 +809,7 @@ public:
  *
  * Used to represent Mappings
  *
- * @author Karl Wessel
+ 
  * @sa Mapping
  * @ingroup mappingDetails
  */

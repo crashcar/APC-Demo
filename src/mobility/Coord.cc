@@ -1,7 +1,7 @@
 /***************************************************************************
  * file:        Coord.cc
  *
- * author:      Christian Frank
+ 
  *
  * copyright:   (C) 2004 Telecommunication Networks Group (TKN) at
  *              Technische Universitaet Berlin, Germany.

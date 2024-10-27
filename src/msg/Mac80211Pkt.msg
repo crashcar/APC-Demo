@@ -1,7 +1,7 @@
 //**************************************************************************
 // * file:        Mac80211Pkt.msg
 // *
-// * author:      Marc L�bbers
+ 
 // * copyright:   (c) by 'the Glimmer Twins'
 // *              Telecommunication Networks Group
 // *              TU-Berlin

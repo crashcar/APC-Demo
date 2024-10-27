@@ -1,7 +1,7 @@
 /***************************************************************************
  * file:        SimpleAddress.cc
  *
- * author:      Michael Lindig
+ 
  *
  * copyright:   (C) 2011 Fraunhofer-Gesellschaft, Germany.
  *

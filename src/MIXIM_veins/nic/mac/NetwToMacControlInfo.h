@@ -1,7 +1,7 @@
 /* -*- mode:c++ -*- *******************************************************
  * file:        NetwToMacControlInfo.h
  *
- * author:      Daniel Willkomm
+ 
  *
  * copyright:   (C) 2005 Telecommunication Networks Group (TKN) at
  *              Technische Universitaet Berlin, Germany.
@@ -37,7 +37,7 @@
  * @ingroup baseUtils
  * @ingroup macLayer
  * @ingroup netwLayer
- * @author Daniel Willkomm
+ 
  **/
 class MIXIM_API NetwToMacControlInfo : public omnetpp::cObject
 {

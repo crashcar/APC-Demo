@@ -35,7 +35,7 @@ namespace Veins {
  * Based on Decider80211.h from Karl Wessel
  * and modifications by Christopher Saloman
  *
- * @author David Eckhoff
+ 
  *
  * @ingroup decider
  *

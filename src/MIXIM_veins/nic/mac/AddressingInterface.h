@@ -2,7 +2,7 @@
  * AddressingInterface.h
  *
  *  Created on: Sep 9, 2010
- *      Author: Karl Wessel
+ 
  */
 
 #ifndef ADDRESSINGINTERFACE_H_
@@ -27,7 +27,7 @@
  * @ingroup netwLayer
  * @ingroup baseModules
  *
- * @author Karl Wessel
+ 
  */
 class MIXIM_API AddressingInterface {
 public:

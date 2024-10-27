@@ -38,7 +38,7 @@
    @endverbatim
  *
  * @ingroup analogueModels
- * @author Hermann S. Lichte, Karl Wessel (port for MiXiM)
+ 
  * @date 2007-08-15
  **/
 class MIXIM_API LogNormalShadowing: public AnalogueModel

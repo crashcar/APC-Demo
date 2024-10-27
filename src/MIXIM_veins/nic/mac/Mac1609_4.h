@@ -41,12 +41,12 @@ namespace Veins {
  * @brief
  * Manages timeslots for CCH and SCH listening and sending.
  *
- * @author Mani Amoozadeh
- * @author David Eckhoff : rewrote complete model
- * @author Christoph Sommer : features and bug fixes
- * @author Michele Segata : features and bug fixes
- * @author Stefan Joerer : features and bug fixes
- * @author Christopher Saloman: initial version
+ 
+ 
+ 
+ 
+ 
+ 
  *
  * @ingroup macLayer
  *

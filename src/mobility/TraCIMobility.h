@@ -38,7 +38,7 @@
  *
  * See the Veins website <a href="http://veins.car2x.org/"> for a tutorial, documentation, and publications </a>.
  *
- * @author Christoph Sommer, David Eckhoff, Luca Bedogni, Bastian Halmos, Stefan Joerer
+ 
  *
  * @see TraCIScenarioManager
  * @see TraCIScenarioManagerLaunchd

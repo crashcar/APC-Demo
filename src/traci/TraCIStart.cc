@@ -1,7 +1,7 @@
 /****************************************************************************/
 /// @file    TraCIStart.h
-/// @author  Mani Amoozadeh   <maniam@ucdavis.edu>
-/// @author  Christoph Sommer <mail@christoph-sommer.de>
+ 
+ 
 /// @date    August 2013
 ///
 /****************************************************************************/

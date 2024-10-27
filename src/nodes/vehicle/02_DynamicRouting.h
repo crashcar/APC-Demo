@@ -1,8 +1,8 @@
 /****************************************************************************/
 /// @file    DynamicRouting.h
-/// @author  Dylan Smith <dilsmith@ucdavis.edu>
-/// @author  Huajun Chai <hjchai@ucdavis.edu>
-/// @author  Mani Amoozadeh <maniam@ucdavis.edu>
+ 
+ 
+ 
 /// @date    August 2013
 ///
 /****************************************************************************/

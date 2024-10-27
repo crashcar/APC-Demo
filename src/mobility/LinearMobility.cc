@@ -1,5 +1,5 @@
 //
-// Author: Emin Ilker Cetinbas (niw3_at_yahoo_d0t_com)
+ 
 // Copyright (C) 2005 Emin Ilker Cetinbas
 //
 // This program is free software; you can redistribute it and/or

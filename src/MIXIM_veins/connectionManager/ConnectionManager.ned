@@ -1,7 +1,7 @@
 //***************************************************************************
 // * file:        ConnectionManager.ned
 // *
-// * author:      Steffen Sroka, Daniel Willkomm, Karl Wessel, Michael Swigulski
+ 
 // *
 // * copyright:   (C) 2004 Telecommunication Networks Group (TKN) at
 // *              Technische Universitaet Berlin, Germany.
@@ -32,7 +32,7 @@ package VENTOS.src.MIXIM_veins.connectionManager;
 // i.e. they can be redifined in the analogue models, but never such
 // that the maximal interference distance is exeeded.
 //       
-// @author Steffen Sroka, Daniel Willkomm, Karl Wessel
+ 
 // @see MobilityBase
 //
 simple ConnectionManager

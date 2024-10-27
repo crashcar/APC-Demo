@@ -2,7 +2,7 @@
  * BaseDecider.cc
  *
  *  Created on: 24.02.2009
- *      Author: karl
+ 
  */
 
 #include <cassert>

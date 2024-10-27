@@ -1,7 +1,7 @@
 /* -*- mode:c++ -*- ********************************************************
  * file:        BaseLayer.h
  *
- * author:      Andreas Koepke
+ 
  *
  * copyright:   (C) 2006 Telecommunication Networks Group (TKN) at
  *              Technische Universitaet Berlin, Germany.
@@ -33,7 +33,7 @@
  * network or MAC layer.
  *
  * @ingroup baseModules
- * @author Andreas Koepke
+ 
  */
 
 class MIXIM_API BaseLayer : public BaseModule

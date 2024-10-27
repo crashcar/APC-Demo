@@ -1,7 +1,7 @@
 /****************************************************************************/
 /// @file    BaseWaveApplLayer.cc
-/// @author  Mani Amoozadeh <maniam@ucdavis.edu>
-/// @author  second author name
+ 
+ 
 /// @date    Feb 2017
 ///
 /****************************************************************************/

@@ -1,6 +1,6 @@
 //
 // Copyright (C) 2012 David Eckhoff <eckhoff@cs.fau.de>
-// Second Author: Mani Amoozadeh <maniam@ucdavis.edu>
+ 
 //
 // Documentation for these modules is at http://veins.car2x.org/
 //

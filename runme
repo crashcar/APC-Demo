@@ -2,8 +2,8 @@
 
 #*************************************************************************
 # @file    runme
-# @author  Mani Amoozadeh <maniam@ucdavis.edu>
-# @author  second author name
+ 
+ 
 # @date    Jan 2016
 #
 #/************************************************************************
@@ -492,7 +492,7 @@ EOF
         echo "generating the private key ..."
         openssl genrsa -des3 -passout pass:foobar -out server.key 2048
 
-        # .csr is a 'Certificate Signing Request' and an application can generate it for submission to certificate-authorities. 
+ 
         # The actual format is PKCS10 which is defined in RFC 2986. It includes some/all of the key details of the requested 
         # certificate such as subject, organization, state, whatnot, as well as the public key of the certificate to get signed. 
         # -config myconfig.cnf -extensions 'my server exts' tells openssl the company name, etc. We could do this by passing the info 
@@ -1170,7 +1170,7 @@ if [[ ("$OS" == "Ubuntu") || ("$OS" == "Mac OS X") ]]; then
 
     # OS X 10.9 and later requires that you sign the gdb executable with a certificate
     if [[ "$OS" == "Mac OS X" ]]; then
-        autho=$(codesign --display --verbose=4 $(which gdb) 2>&1 | grep 'Authority')
+ 
         if [[ "" != "$autho" ]]; then
             echo "gdb is signed with $autho"
         else

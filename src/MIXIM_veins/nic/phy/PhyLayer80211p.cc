@@ -22,7 +22,7 @@
  * Based on PhyLayer.cc from Karl Wessel
  * and modifications by Christopher Saloman
  *
- * Second author: Mani Amoozadeh <maniam@ucdavis.edu>
+ 
  */
 
 #include "PhyLayer80211p.h"

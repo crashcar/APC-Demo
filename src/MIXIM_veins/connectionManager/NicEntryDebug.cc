@@ -1,7 +1,7 @@
 /* -*- mode:c++ -*- ********************************************************
  * file:        NicEntryDebug.cc
  *
- * author:      Daniel Willkomm
+ 
  *
  * copyright:   (C) 2005 Telecommunication Networks Group (TKN) at
  *              Technische Universitaet Berlin, Germany.

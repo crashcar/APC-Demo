@@ -32,7 +32,7 @@
  * dimensions are instantiated the first time.
  * Only the time dimension will always have zero as unique id.
  *
- * @author Karl Wessel
+ 
  * @ingroup mapping
  */
 class MIXIM_API Dimension
@@ -178,7 +178,7 @@ public:
  * Note: Unlike Arguments and Mappings, a DimensionSet does not contain "time"
  * as dimension per default. You'll have to add it like any other dimension.
  *
- * @author Karl Wessel
+ 
  * @ingroup mapping
  */
 class MIXIM_API DimensionSet : public std::set<Dimension>
@@ -297,7 +297,7 @@ public:
  * Note: Currently an Argument can be maximal defined over ten Dimensions
  * plus the time dimension!
  *
- * @author Karl Wessel
+ 
  * @ingroup mapping
  */
 class MIXIM_API Argument
@@ -597,7 +597,7 @@ protected:
  * a bad idea to call "next()" although there isn't any next position.
  * You should check "hasNext()" before calling "next()" or "nextPosition()".
  *
- * @author Karl Wessel
+ 
  * @ingroup mapping
  */
 class NoNextIteratorException {};
@@ -619,7 +619,7 @@ class NoNextIteratorException {};
  * "Const" means that you can not change the values of the underlying Mapping
  * with this iterator.
  *
- * @author Karl Wessel
+ 
  * @ingroup mapping
  */
 class MIXIM_API ConstMappingIterator
@@ -749,7 +749,7 @@ struct mW2dBm<T,true> {
  * from a arbitrary dimensional domain (represented by a DimensionSet)
  * to a Argument::mapped_type value.
  *
- * @author Karl Wessel
+ 
  * @ingroup mapping
  */
 class MIXIM_API ConstMapping
@@ -1064,7 +1064,7 @@ public:
  * Mapping at the current position of the iterator with constant
  * complexity.
  *
- * @author Karl Wessel
+ 
  * @ingroup mapping
  */
 class MIXIM_API MappingIterator:public ConstMappingIterator
@@ -1092,7 +1092,7 @@ public:
  *
  * See ConstMapping for details.
  *
- * @author Karl Wessel
+ 
  * @ingroup mapping
  */
 class MIXIM_API Mapping:public ConstMapping
@@ -1216,7 +1216,7 @@ public:
  * The underlying ConstMapping has to provide a set of key-entries (Arguments) to the
  * iterator to tell it the positions it should iterate over.
  *
- * @author Karl Wessel
+ 
  * @ingroup mapping
  */
 class MIXIM_API SimpleConstMappingIterator:public ConstMappingIterator
@@ -1408,7 +1408,7 @@ public:
  * getValue()-method is fast enough to be called on every iteration step
  * (which means constant complexity).
  *
- * @author Karl Wessel
+ 
  * @ingroup mapping
  */
 class MIXIM_API SimpleConstMapping:public ConstMapping

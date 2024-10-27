@@ -1,7 +1,7 @@
 /***************************************************************************
  * file:        ChannelAccess.cc
  *
- * author:      Marc Loebbers
+ 
  *
 
  * copyright:   (C) 2004 Telecommunication Networks Group (TKN) at
@@ -22,7 +22,7 @@
  ***************************************************************************
  * changelog:   $Revision: 284 $
  *              last modified:   $Date: 2006-06-07 16:55:24 +0200 (Mi, 07 Jun 2006) $
- *              by:              $Author: willkomm $
+ 
  **************************************************************************/
 
 #include <cassert>

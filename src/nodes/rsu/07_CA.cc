@@ -2,7 +2,7 @@
  * GKM.cc
  *
  *  Created on: Jun 13, 2023
- *      Author: puyijun
+ 
  */
 #include "07_CA.h"
 

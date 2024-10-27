@@ -34,7 +34,7 @@
  * An in-depth description of the model is available at:
  * Christoph Sommer and Falko Dressler, "Using the Right Two-Ray Model? A Measurement based Evaluation of PHY Models in VANETs," Proceedings of 17th ACM International Conference on Mobile Computing and Networking (MobiCom 2011), Poster Session, Las Vegas, NV, September 2011.
  *
- * @author Stefan Joerer
+ 
  *
  * @ingroup analogueModels
  */

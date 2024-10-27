@@ -1,7 +1,7 @@
 /* -*- mode:c++ -*- ********************************************************
  * file:        SimpleAddress.h
  *
- * author:      Andreas Koepke
+ 
  *
  * copyright:   (C) 2006 Telecommunication Networks Group (TKN) at
  *              Technische Universitaet Berlin, Germany.

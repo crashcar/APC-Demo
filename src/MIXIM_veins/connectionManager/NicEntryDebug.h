@@ -1,7 +1,7 @@
 /* -*- mode:c++ -*- ********************************************************
  * file:        NicEntryDebug.h
  *
- * author:      Daniel Willkomm
+ 
  *
  * copyright:   (C) 2005 Telecommunication Networks Group (TKN) at
  *              Technische Universitaet Berlin, Germany.
@@ -31,7 +31,7 @@
  * information for each nic
  *
  * @ingroup connectionManager
- * @author Daniel Willkomm
+ 
  * @sa ConnectionManager, NicEntry
  */
 class NicEntryDebug: public NicEntry

@@ -1,7 +1,7 @@
 /* -*- mode:c++ -*- ********************************************************
  * file:        ChannelAccess.h
  *
- * author:      Marc Loebbers
+ 
  *
  * copyright:   (C) 2004 Telecommunication Networks Group (TKN) at
  *              Technische Universitaet Berlin, Germany.
@@ -49,7 +49,7 @@ class BaseWorldUtility;
  *
  * Please don't touch this class.
  *
- * @author Marc Loebbers
+ 
  * @ingroup connectionManager
  * @ingroup phyLayer
  * @ingroup baseModules

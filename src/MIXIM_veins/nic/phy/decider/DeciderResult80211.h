@@ -2,7 +2,7 @@
  * DeciderResult80211.h
  *
  *  Created on: 04.02.2009
- *      Author: karl
+ 
  *
  *  Modified by Michele Segata (segata@ccs-labs.org)
  */

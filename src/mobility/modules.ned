@@ -61,7 +61,7 @@ simple TraCIMobility_Mod extends BaseMobility
 // off the wall at the same angle.
 //
 // NOTE: Does not yet support 3-dimensional movement.
-// @author Emin Ilker Cetinbas
+ 
 simple LinearMobility extends BaseMobility
 {
     parameters:

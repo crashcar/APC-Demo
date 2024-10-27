@@ -1,16 +1,16 @@
 /****************************************************************************/
 /// @file    TraCIConstants.h
-/// @author  Axel Wegener
-/// @author  Friedemann Wesner
-/// @author  Bjoern Hendriks
-/// @author  Daniel Krajzewicz
-/// @author  Thimor Bohn
-/// @author  Tino Morenz
-/// @author  Michael Behrisch
-/// @author  Christoph Sommer
-/// @author  Mario Krumnow
-/// @author  Jakob Erdmann
-/// @author  Laura Bieker
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 /// @date    2007/10/24
 /// @version $Id$
 ///

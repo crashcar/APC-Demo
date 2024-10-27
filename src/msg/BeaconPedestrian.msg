@@ -1,7 +1,7 @@
 //****************************************************************************/
 /// @file    BeaconPedestrian.msg
-/// @author  Mani Amoozadeh <maniam@ucdavis.edu>
-/// @author  second author name
+ 
+ 
 /// @date    August 2013
 ///
 //****************************************************************************/

@@ -1,7 +1,7 @@
 //**************************************************************************
 // * file:        BorderMsg.msg
 // *
-// * author:      Daniel Willkomm
+ 
 // *
 // * copyright:   (C) 2006 Telecommunication Networks Group (TKN) at
 // *              Technische Universitaet Berlin, Germany.
@@ -25,7 +25,7 @@ class noncobject Coord;
 
 // used as a self packet containing the position, direction and BorderPolicy
 //
-// @author Daniel Willkomm
+ 
 //
 packet BorderMsg
 {

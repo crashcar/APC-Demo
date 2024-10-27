@@ -1,7 +1,7 @@
 /* -*- mode:c++ -*- ********************************************************
  * file:        BaseModule.cc
  *
- * author:      Steffen Sroka
+ 
  *              Andreas Koepke
  *
  * copyright:   (C) 2004 Telecommunication Networks Group (TKN) at

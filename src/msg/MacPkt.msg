@@ -1,7 +1,7 @@
 //**************************************************************************
 // * file:        MacPkt.msg
 // *
-// * author:      Daniel Willkomm
+ 
 // *
 // * copyright:   (C) 2004 Telecommunication Networks Group (TKN) at
 // *              Technische Universitaet Berlin, Germany.
@@ -31,7 +31,7 @@ class LAddress::L2Type extends void;
 //
 // The basic MAC packet only provides source and destination address
 //
-// @author Daniel Willkomm
+ 
 
 packet MacPkt
 {

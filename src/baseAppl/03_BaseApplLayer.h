@@ -1,7 +1,7 @@
 /* -*- mode:c++ -*- ********************************************************
  * file:        BaseApplLayer.h
  *
- * author:      Daniel Willkomm
+ 
  *
  * copyright:   (C) 2004 Telecommunication Networks Group (TKN) at
  *              Technische Universitaet Berlin, Germany.
@@ -38,7 +38,7 @@
  * @ingroup applLayer
  * @ingroup baseModules
  *
- * @author Daniel Willkomm
+ 
  **/
 
 class MIXIM_API BaseApplLayer : public BaseLayer

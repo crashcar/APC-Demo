@@ -1,7 +1,7 @@
 /***************************************************************************
  * file:        Coord.h
  *
- * author:      Christian Frank
+ 
  *
  * copyright:   (C) 2004 Telecommunication Networks Group (TKN) at
  *              Technische Universitaet Berlin, Germany.
@@ -38,7 +38,7 @@
  * Some comparison and basic arithmetic operators are implemented.
  *
  * @ingroup utils
- * @author Christian Frank
+ 
  */
 class MIXIM_API Coord : public omnetpp::cObject
 {

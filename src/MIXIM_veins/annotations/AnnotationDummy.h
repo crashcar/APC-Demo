@@ -25,7 +25,7 @@
 /**
  * AnnotationDummy is just a workaround to visualize annotations
  *
- * @author Christoph Sommer
+ 
  */
 namespace Veins {
 

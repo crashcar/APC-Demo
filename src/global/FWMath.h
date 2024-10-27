@@ -1,7 +1,7 @@
 /* -*- mode:c++ -*- ********************************************************
  * file:        FWMath.h
  *
- * author:      Christian Frank
+ 
  *
  * copyright:   (C) 2004 Telecommunication Networks Group (TKN) at
  *              Technische Universitaet Berlin, Germany.
@@ -100,7 +100,7 @@
  *
  * @ingroup basicUtils
  * @ingroup utils
- * @author Christian Frank
+ 
  */
 class MIXIM_API FWMath
 {

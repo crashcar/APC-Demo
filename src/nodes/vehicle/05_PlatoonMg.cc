@@ -1,13 +1,13 @@
 /****************************************************************************/
 /// @file    ApplV_02_PlatoonMg.cc
 /// modified to implement SERP
-/// @author  yijun pu <yijunpu@whu.edu.cn>
+ 
 /// @date    December 2023
 ///
 /****************************************************************************/
 /// @file    ApplV_02_PlatoonMg.cc
-/// @author  Mani Amoozadeh <maniam@ucdavis.edu>
-/// @author  second author name
+ 
+ 
 /// @date    August 2013
 ///
 /****************************************************************************/

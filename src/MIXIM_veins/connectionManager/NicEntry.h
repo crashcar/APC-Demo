@@ -1,7 +1,7 @@
 /* -*- mode:c++ -*- ********************************************************
  * file:        NicEntry.h
  *
- * author:      Daniel Willkomm
+ 
  *
  * copyright:   (C) 2005 Telecommunication Networks Group (TKN) at
  *              Technische Universitaet Berlin, Germany.
@@ -34,7 +34,7 @@ class ChannelAccess;
  * information for each nic
  *
  * @ingroup connectionManager
- * @author Daniel Willkomm
+ 
  * @sa ConnectionManager
  */
 class MIXIM_API NicEntry : public omnetpp::cObject

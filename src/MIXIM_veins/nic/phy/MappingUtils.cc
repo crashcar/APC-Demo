@@ -2,7 +2,7 @@
  * MappingUtils.cc
  *
  *  Created on: 26.08.2008
- *      Author: Karl Wessel
+ 
  */
 
 #include "MappingUtils.h"
